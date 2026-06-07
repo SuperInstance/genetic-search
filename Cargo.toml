@@ -1,0 +1,11 @@
+[package]
+name = "genetic-search"
+version = "0.1.0"
+edition = "2021"
+description = "Genetic algorithm engine with selection, crossover, mutation, and convergence detection"
+license = "MIT"
+repository = "https://github.com/SuperInstance/genetic-search"
+keywords = ["genetic-algorithm", "optimization", "evolutionary", "algorithms"]
+categories = ["algorithms", "science"]
+
+[dependencies]
